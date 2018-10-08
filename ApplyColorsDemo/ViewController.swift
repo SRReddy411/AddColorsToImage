@@ -8,6 +8,8 @@
 
 import UIKit
 import ChromaColorPicker
+
+
 @objc protocol AddColorPhotoEditorDelegate {
     func imageEdited(image: UIImage)
    
